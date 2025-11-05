@@ -2,11 +2,11 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>daniels-theme</id>
-    <version>1.0.9</version>
+    <version>1.0.11</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
-    <name>daniels-theme</name>
+    <name>Daniels-Theme</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -17,7 +17,7 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Daniels Private Theme
+        IntelliJ Theme resembling Vercel's code block colors
     ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
@@ -32,6 +32,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="daniels-theme" path="/theme/danielstheme.theme.json"/>
-        <bundledColorScheme id="daniels-theme" path="(/theme/daniels-theme"/>
+        <bundledColorScheme id="daniels-theme" path="/theme/daniels-theme"/>
     </extensions>
 </idea-plugin>

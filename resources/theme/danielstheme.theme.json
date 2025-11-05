@@ -2,7 +2,7 @@
   "name": "daniels-theme",
   "dark": true,
   "author": "Daniel",
-  "editorScheme": "/daniels-theme.icls",
+  "editorScheme": "/danielstheme.xml",
   "ui": {
     "*": {
       "background": "#000000",
