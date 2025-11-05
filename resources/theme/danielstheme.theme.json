@@ -53,7 +53,7 @@
     "EditorTabs.background": "#000000",
     "EditorTabs.borderColor": "#242424",
     "EditorTabs.selectedBackground": "#0a0a0a",
-    "EditorTabs.selectedForeground": "#a1a1a1",
+    "EditorTabs.selectedForeground": "#2d2d2d",
     "EditorTabs.inactiveBackground": "#000000",
     "EditorTabs.inactiveForeground": "#a1a1a1",
     "EditorTabs.underlineColor": "#ededed",
